@@ -90,4 +90,4 @@ plt.savefig(f"{output_folder}/dashboard.png")
 plt.close()
 
 
-print("All charts saved in 'outputs/' folder ✅")
+print("All charts saved in 'outputs/' folder")
